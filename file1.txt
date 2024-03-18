@@ -2,3 +2,5 @@ This is file1
 Edited now
 
 This is line is added to check git diff
+
+This line added to check git diff --staged file
